@@ -17,7 +17,7 @@ function Update()
 	then
 		if Acm < 1000
 		then
-			Acm = (Acm + 50)
+			Acm = (Acm + 100)
 			cV = DoFade(oV, nV, Acm / 1000)
 		else
 			Acm = 0
