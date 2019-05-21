@@ -9,6 +9,7 @@ EnableCtl=1
 CtlLarge=0
 CtlSize=8
 EnableAbm=1
+AbmRound=0
 BlrStyle=Acrylic
 PdgStyle=2
 ;alignment
