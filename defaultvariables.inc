@@ -27,10 +27,10 @@ FOBY=36
 ;behavior 
 AutoHide=0
 HideOnPause=1
-PIT1=[A[#TBS1]]
+PIT1=[FilterA[#TBS1]]
 PIT2=
-PIB1=[B[#BBS1]]
-PIB2=[C[#BBS2]]
+PIB1=[FilterB[#BBS1]]
+PIB2=[FilterC[#BBS2]]
 TBS1=2
 TBS2=0
 BBS1=0
