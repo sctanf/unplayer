@@ -1,6 +1,5 @@
-<div align="center"><h2>UnPlayer is a fully automatic Rainmeter player.</h2>
-This is not just any normal player. This works straight out of the box. No setup required.</div>
-<hr>
+UnPlayer is a fully automatic Rainmeter player.<br>
+This is not just any normal player. This works straight out of the box. No setup required.<br>
 
 UnPlayer supports all players from NowPlaying's supported list, WebNowPlaying, Spotify, and Google Play Music Desktop Player.<br>
 
