@@ -11,7 +11,8 @@ For Chrome, go <a href="https://chrome.google.com/webstore/detail/webnowplaying-
 To use the browser extension in Firefox, you'll need to go to the **about:config** page and set **network.websocket.allowInsecureFromHTTPS** to true.
 
 If you want to use Spotify with UnPlayer, you need to use khanhas's <a href="https://github.com/khanhas/spicetify-cli/wiki/Guide-for-Rainmeter-user">Spicetify</a>.
-To manually check/install updates, refresh the main skin. Make sure updates are enabled in settings.
+
+Note: To manually check/install updates, refresh the main skin. Make sure updates are enabled in settings.
 
 **Features**
 * All players supported (NowPlaying, WebNowPlaying, Spotify, GPMDP)
@@ -20,7 +21,8 @@ To manually check/install updates, refresh the main skin. Make sure updates are 
 * Automatic hide (Autohide)
 * Local album art discovery (Retrieves and displays art from the folder the song is in)
 * Settings and alignment options
-* Properly draggable progress bars
+* Multiple styles to fit different situations
+* Multiple color options (Chameleon works on wallpaper or album art)
 
 **Credits**
 * theAzack9 - <a href="https://forum.rainmeter.net/viewtopic.php?t=23106">FrostedGlass plugin</a> and ShowInToolbar plugin
