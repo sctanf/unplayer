@@ -1,4 +1,4 @@
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/sctanf/unplayer"></a> <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/sctanf/unplayer/total"></a>
+<a href="https://github.com/sctanf/unplayer/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/sctanf/unplayer"></a> <a href="https://github.com/sctanf/unplayer/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/sctanf/unplayer/total"></a>
 
 UnPlayer is a fully automatic Rainmeter player.
 This is not just any normal player. This works straight out of the box. No setup required.
