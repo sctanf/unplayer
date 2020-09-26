@@ -1,4 +1,5 @@
-![UnPlayer Preview](https://repository-images.githubusercontent.com/123527308/c60a9580-ffb4-11ea-8fe4-8298ab344b31)
+![UnPlayer Preview](https://repository-images.githubusercontent.com/123527308/84c6b580-ffb5-11ea-827f-d7a4738bde7d)
+
 [!["GitHub release (latest by date)"](https://img.shields.io/github/v/release/sctanf/unplayer?style=flat-square)](https://github.com/sctanf/unplayer/releases/latest) 
 [![GitHub All Releases](https://img.shields.io/github/downloads/sctanf/unplayer/total?style=flat-square)](https://github.com/sctanf/unplayer/releases)
 
