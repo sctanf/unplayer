@@ -10,11 +10,13 @@ This is not just any normal player. This works straight out of the box. No setup
 
 UnPlayer supports all players from NowPlaying's supported list, WebNowPlaying, Spotify, and Google Play Music Desktop Player.
 
+**If you are using a browser:**
 For browser support, (Youtube, Web Spotify, SoundCloud, etc.) you need to download the companion extension in your browser.
 For Chrome, go [here](https://chrome.google.com/webstore/detail/webnowplaying-companion/jfakgfcdgpghbbefmdfjkbdlibjgnbli), and for Firefox, go [here](https://addons.mozilla.org/en-US/firefox/addon/webnowplaying-companion). Other browsers, if they support Chrome/Firefox extensions, should work too.
 
 To use the browser extension in Firefox, you'll need to go to the **about:config** page and set **network.websocket.allowInsecureFromHTTPS** to true.
 
+**If you are using Spotify:**
 If you want to use Spotify with UnPlayer, you need to use khanhas's [Spicetify](https://github.com/khanhas/spicetify-cli/wiki/Guide-for-Rainmeter-user).
 
 ---
