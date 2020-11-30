@@ -4,7 +4,7 @@
 [![GitHub All Releases](https://img.shields.io/github/downloads/sctanf/unplayer/total?style=flat-square)](https://github.com/sctanf/unplayer/releases)
 
 UnPlayer is a fully automatic Rainmeter player.
-Switch between your many media players seamlessly with UnPlayer!
+Switch between your many media players seamlessly.
 
 ---
 
