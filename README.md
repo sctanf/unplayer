@@ -33,4 +33,4 @@ If you want to use Spotify with UnPlayer, you need to use khanhas's [Spicetify](
 - theAzack9 - [FrostedGlass plugin](https://forum.rainmeter.net/viewtopic.php?t=23106) and ShowInToolbar plugin
 - tjhrulz - [WebNowPlaying plugin](https://github.com/tjhrulz/WebNowPlaying) and [GPMDP plugin](https://github.com/tjhrulz/GPMDP-Plugin)
 - NighthawkSLO - [Mouse plugin](https://github.com/NighthawkSLO/Mouse.dll)
-- Socks The Fox - [Chameleon plugin](https://forum.rainmeter.net/viewtopic.php?t=21655)
+- Socks The Fox - [Chameleon plugin](https://github.com/socks-the-fox/Chameleon)
